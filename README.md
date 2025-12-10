@@ -1,8 +1,8 @@
-# 🌍 React Country Atlas
+# 🌍 React Country Seek
 
 A modern, responsive React application showcasing countries from around the world with detailed information, search functionality, and region-based filtering.
 
-![React Country Atlas](https://img.shields.io/badge/React-19.0.0--rc.1-blue?logo=react&logoColor=white)
+![React Country Seek](https://img.shields.io/badge/React-19.0.0--rc.1-blue?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-7.2.4-yellow?logo=vite&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
@@ -41,7 +41,7 @@ A modern, responsive React application showcasing countries from around the worl
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd react_country_thapa
+   cd react_country
    ```
 
 2. **Install dependencies**
@@ -69,7 +69,7 @@ A modern, responsive React application showcasing countries from around the worl
 ## 📁 Project Structure
 
 ```
-react_country_thapa/
+react_country/
 ├── public/                 # Static assets
 │   ├── images/            # Image assets
 │   └── index.html         # HTML template
