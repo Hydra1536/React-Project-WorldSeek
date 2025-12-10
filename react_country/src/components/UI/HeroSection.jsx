@@ -24,7 +24,7 @@ Discover the history, culture, and beauty of every nation. search, and filter th
 
         </div>
         <div className="hero-image">
-            <img src="/images/9668a425ea1cb158258b82f097dbdf50.jpg" 
+            <img src="https://img-comment-fun.9cache.com/media/a73Y03w/aqxwlKJR_700w_0.jpg" 
             alt="hero-image" className="banner-image"/>
         </div>
       </div>

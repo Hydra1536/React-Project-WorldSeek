@@ -45,7 +45,7 @@ export const Footers = () => {
             <div className="footer-nav">
               <NavLink to="/" className="btn">Home</NavLink>
               <NavLink to="https://github.com/Hydra1536" className="btn" target="blank">GitHub</NavLink>
-              <NavLink to="/source-code" className="btn">Source Code</NavLink>
+              <NavLink to="https://github.com/Hydra1536/React-Project-WorldSeek" className="btn" target="blank">Source Code</NavLink>
               <NavLink to="/contact" className="btn">Contact</NavLink>
             </div>
           </div>
