@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "No Capital",
+    "population": 8231613070,
+    "interestingFact": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states."
+  },
+  {
+    "id": 2,
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "population": 31742680,
+    "interestingFact": "Nepal is the only country that has a flag that is not rectangular or square."
+  },
+  {
+    "id": 3,
+    "countryName": "USA",
+    "capital": "Washington, D.C.",
+    "population": 347275807,
+    "interestingFact": "The world's oldest known tree is a bristlecone pine named 'Methuselah', found in California, USA."
+  },
+  {
+    "id": 4,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1416096094,
+    "interestingFact": "China has built the world's largest telescope to study the universe."
+  },
+  {
+    "id": 5,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1463865525,
+    "interestingFact": "The Statue of Unity in Gujarat, India, is the tallest statue in the world."
+  },
+  {
+    "id": 6,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 212812405,
+    "interestingFact": "Brazil boasts the most biodiversity of any country on the planet."
+  },
+  {
+    "id": 7,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 84075075,
+    "interestingFact": "Germany has installed 1 kW of renewable capacity per person in the last decade."
+  },
+  {
+    "id": 8,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 123103479,
+    "interestingFact": "Japan has one vending machine for every 40 people."
+  }
+]
